@@ -9,5 +9,4 @@ public class VacationCalculatorApplication {
     public static void main(String[] args) {
         SpringApplication.run(VacationCalculatorApplication.class, args);
     }
-
 }
